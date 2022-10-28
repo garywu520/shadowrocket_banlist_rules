@@ -1,0 +1,1 @@
+# shadowrocket_banlist_rules
