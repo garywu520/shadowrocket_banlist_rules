@@ -13,5 +13,7 @@ DOT替换为 Blahdns JP-DOT：tls://dot-jp.blahdns.com, Blahdns日本节点即�
 
 
 
+<br>
+<br>
 
-
+**Rule Copy From:** [Best Shadowrocket Rules](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
