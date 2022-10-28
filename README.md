@@ -1,6 +1,6 @@
 #### 1.banlist变动
 
-DOT替换为：
+DOT/DOH替换为：
 - Blahdns-JP：tls://dot-jp.blahdns.com
 - DOT.SB: 
   - [Japan]-DOT tls://45.11.45.11
