@@ -27,4 +27,4 @@ Blahdns和DOT.SB均为日本节点即保证了质量又提升了解析速度。
 <br>
 <br>
 
-**Rule Copy From:** [Best Shadowrocket Rules](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
+**Rule Copy From:** [Shadowrocket Rules](https://github.com/iDepth/sfw)
